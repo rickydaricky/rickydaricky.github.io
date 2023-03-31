@@ -21,7 +21,7 @@ body {
 .name {
   text-align: center;
   font-size: 300%;
-  color: red;
+  color: darkred;
 }
 
 .about-container {

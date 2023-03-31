@@ -10,7 +10,7 @@ html * {
 }
 
 body {
-  background-color: black
+  background-color: red
 }
 
 .about {
@@ -21,7 +21,7 @@ body {
 .name {
   text-align: center;
   font-size: 300%;
-  color: red;
+  color: black;
 }
 
 .about-container {
