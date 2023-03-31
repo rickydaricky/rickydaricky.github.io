@@ -1,0 +1,27 @@
+p {
+  text-align: justify;
+  font-size: 200%;
+}
+
+html * {
+  font-size: 16px;
+  color: black;
+  font-family: Nunito, sans-serif;
+}
+
+.about {
+  font-size: 200%;
+  color: blue;
+}
+
+.title {
+  text-align: center;
+  font-size: 300%;
+  color: teal;
+}
+
+.square {
+  text-align: center;
+  width: 520px;
+  background-color: grey;
+}

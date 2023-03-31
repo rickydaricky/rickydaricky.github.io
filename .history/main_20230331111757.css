@@ -28,12 +28,8 @@ html * {
 }
 
 .about-container-child {
-  /* margin: 10 10 10 10; */
-}
-
-.break {
-  flex-basis: 100%;
-  height: 0;
+  flex: 1 0 200px; /* Set the child element's width to 200px */
+  margin: 10px; /* Add some margin between the child elements */
 }
 
 .square {
@@ -41,7 +37,6 @@ html * {
   justify-content: center;
   align-items: center;
   text-align: center;
-  border-radius: 15px;
   width: 520px;
   background-color: coral;
 }
