@@ -16,11 +16,10 @@ html * {
 
 .title {
   text-align: center;
-  font-size: 300%;
-  color: teal;
+  font-size: 400%;
 }
 
 .square {
-  width: 520px;
+  width: 500px;
   background-color: coral;
 }

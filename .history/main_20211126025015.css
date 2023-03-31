@@ -11,13 +11,12 @@ html * {
 
 .about {
   font-size: 200%;
-  color: blue;
+  color: light-blue;
 }
 
 .title {
   text-align: center;
-  font-size: 300%;
-  color: teal;
+  font-size: 400%;
 }
 
 .square {
